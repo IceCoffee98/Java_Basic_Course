@@ -309,7 +309,7 @@ attributes: name, weight, age, color
 behaviors: walk, run
 ```
 
-<img src="https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/image-20200327220724529.png" style="zoom:67%;" />
+<img src="https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/image-20200328111204621.png" style="zoom:67%;" />
 
 ### Object
 
