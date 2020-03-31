@@ -53,7 +53,7 @@ short result=5+a+8; //wrong
 
 ## Structure of IDEA
 
-<img src="https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/image-20200327203832387.png" style="zoom:30%;" align='left'/>
+<img src="https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/image-20200327220724529.png" style="zoom:30%;" align='left'/>
 
 ### PS:
 
