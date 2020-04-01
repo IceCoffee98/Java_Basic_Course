@@ -5,10 +5,10 @@
 
 All of the code run in JVM(Like a translator)
 
-#### Cross-platform
+### Cross-platform
 
-- All of the programs runs in JVM and all the JVMs run on the OS
 - JVMs of different OS are different, JVM is not cross-platform
+- All of the programs runs in JVM and all the JVMs run on the OS
 
 ### JRE(Java Runtime Environment) 
 
@@ -22,7 +22,7 @@ If you want to run a existing Java program, only `JRE` is needed
 
 If you want to develop a new Java program, you must install `JDK`
 
-<img src="https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/image-20200327203832387.png" alt="image-20200327203832387" style="zoom:50%;" />
+<img src="https://github.com/IceCoffee98/Java_Basic_Course/raw/master/img/image-20200327203832387.png" alt="image-20200327203832387" style="zoom:50%;" />
 
 ------
 
@@ -51,7 +51,7 @@ short result=5+a+8; //wrong
 
 ## Structure of IDEA
 
-<img src="https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/image-20200327220724529.png" style="zoom:30%;" align='left'/>
+<img src="https://github.com/IceCoffee98/Java_Basic_Course/raw/master/img/image-20200327220724529.png" style="zoom:30%;" align='left'/>
 
 ### PS:
 

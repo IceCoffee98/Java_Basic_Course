@@ -61,7 +61,11 @@ System.out.println(str1.equals(str3)); //true
 System.out.println(str2.equals(str3)); //true
 ```
 
-![String Pool](https://github.com/IceCoffee98/Java_Basic_Course/raw/master/img/String%20Pool.png)
+![String_Pool](https://github.com/IceCoffee98/Java_Basic_Course/raw/master/img/String_Pool.png)
+
+
+
+
 
 
 
