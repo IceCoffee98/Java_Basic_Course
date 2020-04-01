@@ -47,7 +47,7 @@ String str1 = "Hello";
 String str2 = "Hello";
 system.out.println(str1 == str2);//true
 ```
-- but if you create with ***new***, which are not in String pool, the output will be false.
+- but if you create a String with ***new***, which are not in String pool, the output will be false.
 
 ```java
 String str1 = "abc";
@@ -61,5 +61,7 @@ System.out.println(str1.equals(str3)); //true
 System.out.println(str2.equals(str3)); //true
 ```
 
-![String Pool](https://github.com/IceCoffee98/Java_Basic_Course/blob/master/img/String%20Pool.png)
+![String Pool](https://github.com/IceCoffee98/Java_Basic_Course/raw/master/img/String%20Pool.png)
+
+
 
