@@ -1,5 +1,8 @@
 ## Variables
 
+- the first letters of all `variables` are `lowercase`
+- the first letters of all `Classes` are `uppercase`
+
 ### Basic variables
 
 | Types   | Size /Byte(s) |

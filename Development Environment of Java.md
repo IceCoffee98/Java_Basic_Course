@@ -1,6 +1,5 @@
 ## Development Environment of Java
 
---------
 
 ### JVM - Java Virtual Machine
 
